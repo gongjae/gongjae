@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Gongjae
-## joongbu university student  
+# <Gongjae>
+### joongbu university student  
 
