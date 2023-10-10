@@ -1,10 +1,10 @@
 <div align="center"> 
   
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Gongjae&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-  <div align="left">
+ 
 ####  :wave: Welcome my github profile !
 
-##💻 My Blog 💻
+#### 💻 My Blog 💻
 <div style="display:flex; flex-direction:row;">
   <a href="https://ddongfary.tistory.com">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white&link=https://thdwlgus.tistory.com"/>
