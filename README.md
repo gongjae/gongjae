@@ -4,7 +4,6 @@
   <div align="left">
 ####  :wave: Welcome my github profile !
 
- <br/>
 ##💻 My Blog 💻
 <div style="display:flex; flex-direction:row;">
   <a href="https://ddongfary.tistory.com">
